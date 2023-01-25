@@ -1,0 +1,14 @@
+{
+    "Acknowledgements": "",
+    "Authors": [
+        "Will be updated"
+    ],
+    "BIDSVersion": "1.0.2",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004413.v1.0.0",
+    "Funding": [],
+    "HowToAcknowledge": "",
+    "License": "CC0",
+    "Name": "EFR01",
+    "ReferencesAndLinks": [],
+    "template": "project"
+}
